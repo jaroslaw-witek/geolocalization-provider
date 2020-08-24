@@ -1,0 +1,4 @@
+GET http://localhost:9001/api/geo-localizations?page=0&size=5&sort=logdate,DESC
+Accept: application/json
+
+###

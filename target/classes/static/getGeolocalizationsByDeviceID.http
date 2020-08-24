@@ -1,0 +1,4 @@
+GET http://localhost:9001/api/geo-localizations/111?paged=false
+Accept: application/json
+
+###
